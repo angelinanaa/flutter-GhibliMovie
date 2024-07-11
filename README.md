@@ -22,11 +22,6 @@ Flutter GhibliMovie adalah aplikasi sederhana yang menggunakan API Studio Ghibli
 - 🔍 **Pencarian Film**: Fitur pencarian untuk mencari film berdasarkan judul.
 - 📱 **Antarmuka Responsif**: Desain yang responsif untuk pengalaman pengguna yang optimal di berbagai perangkat.
 
-## Demo
-
-Berikut adalah tampilan aplikasi Flutter GhibliMovie:
-
-![Demo](demo.gif)
 
 ## Instalasi
 
