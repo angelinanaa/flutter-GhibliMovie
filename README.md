@@ -7,7 +7,7 @@ Aplikasi Flutter untuk menampilkan daftar film dari Studio Ghibli dengan antarmu
 ![Flutter GhibliMovie](images/GhibliMovie.png)
 ## List Film 
 ![Flutter GhibliMovie](images/ListMovie.png)
-## Detai Movie
+## Detail Movie
 ![Flutter GhibliMovie](images/DetailMovie.png)
 
 
